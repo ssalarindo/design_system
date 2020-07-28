@@ -3386,7 +3386,7 @@ textarea.form-control:active {
 .pagination .page-item.active>.page-link,
 .pagination .page-item.active>.page-link:focus,
 .pagination .page-item.active>.page-link:hover {
-  background-color: #888888;
+  background-color: #4C85AA;
   border-color: #888888;
   color: #FFFFFF;
 }
@@ -3438,7 +3438,7 @@ textarea.form-control:active {
 
 .pagination.pagination-neutral .page-item>.page-link:focus,
 .pagination.pagination-neutral .page-item>.page-link:hover {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #4C85AA;
   color: #FFFFFF;
 }
 
